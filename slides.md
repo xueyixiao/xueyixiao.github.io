@@ -1,5 +1,6 @@
 ---
 layout: cover
+download: true
 colorSchema: light
 highlighter: shiki
 transition: slide-left

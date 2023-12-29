@@ -67,7 +67,7 @@ layout: center
 transition: slide-left
 ---
 
-# 使用百度地图前 你需要的之至知识
+# 使用百度地图前 你需要的知识
 
 ---
 

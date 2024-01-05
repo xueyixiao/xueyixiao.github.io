@@ -13,6 +13,7 @@
     "@slidev/theme-seriph": "latest"
   },
   "devDependencies": {
-    "@iconify-json/arcticons": "^1.1.87"
+    "@iconify-json/arcticons": "^1.1.87",
+    "playwright-chromium": "^1.40.1"
   }
 }
